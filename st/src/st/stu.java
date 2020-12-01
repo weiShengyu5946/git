@@ -19,5 +19,5 @@ public class stu {
 		this.love=love;
 		
 	}
-
+666666666666666666666666;
 }
